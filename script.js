@@ -1,10 +1,10 @@
 var arr = [
-    { img: "./images/animal.jpg", SongName: "Phele mai bhi", Singer: "Saurabh", url: "./songs/Pehle Bhi Main.mp3",time:"2:46" },
-    { img:"./images/Desi kalkar.jpeg",SongName:"Yo Yo honey",Singer:"Honey Paji",url:"Yo yo.mp3",time:"15:00"},
-    { img: "./images/jale.jpg", SongName: "Jale 2", Singer: "Bhagy", url: "./songs/Jale 2.mp3",time:"3:20" },
-    { img: "./images/ram.jpg", SongName: "Ram Siya Ram", Singer: "Saurabh", url: "./songs/Ram Siya Ram.mp3",time:"1:45" },
-    {img:"./images/kk.png",SongName:"KK Playlist",Singer:"KK",url:"./songs/KK.mp4",time:"5:10",},
-    { img: "./images/animal.jpg", SongName: "Arjan Vailly", Singer: "Saurabh", url: "./songs/Arjan Vailly Ne.mp3",time:"1:10"},
+    { img: "./animal.jpg", SongName: "Phele mai bhi", Singer: "Saurabh", url: "./Pehle Bhi Main.mp3",time:"2:46" },
+    { img:"./Desi kalkar.jpeg",SongName:"Yo Yo honey",Singer:"Honey Paji",url:"Yo yo.mp3",time:"15:00"},
+    { img: "./jale.jpg", SongName: "Jale 2", Singer: "Bhagy", url: "./Jale 2.mp3",time:"3:20" },
+    { img: "./ram.jpg", SongName: "Ram Siya Ram", Singer: "Saurabh", url: "./Ram Siya Ram.mp3",time:"1:45" },
+    {img:"./kk.png",SongName:"KK Playlist",Singer:"KK",url:"./songs/KK.mp4",time:"5:10",},
+    { img: "./animal.jpg", SongName: "Arjan Vailly", Singer: "Saurabh", url: "./Arjan Vailly Ne.mp3",time:"1:10"},
     
 ]
 var allSongs = document.querySelector("#song-continer")
