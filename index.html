@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music-Player</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="main">
+        <div id="left">
+            <h2 class="header">App</h2>
+            <div id="left-top">
+                <h2><i class="ri-folder-open-fill"></i>Explore</h2>
+                <h2><i class="ri-megaphone-line"></i>Suggest</h2>
+                <h2><i class="ri-line-chart-line"></i>Top Charts</h2>
+                <h2><i class="ri-music-2-fill"></i>New stuff</h2>
+            </div>
+            <h2 class="header">Personal</h2>
+            <div id="left-bottom">
+                <h2><i class="ri-heart-fill"></i>Favorite</h2>
+                <h2><i class="ri-folder-open-fill"></i>Albums</h2>
+                <h2><i class="ri-file-list-2-fill"></i>Playlists</h2>
+                <h2><i class="ri-bar-chart-horizontal-fill"></i>Gendres</h2>
+            </div>
+        </div>
+
+        <div id="right">
+            <div id="search-continer">
+                <input type="search" placeholder="Search music">
+                <div id="login-btn"><button>Login</button></div>
+
+            </div>
+            <div id="song-continer">
+            </div>
+            <div id="popular">
+                <div id="pleft">
+                    <h2>Popular</h2>
+                    <div class="popular-part">
+                        <div class="left-Popular">
+                            <div class="img"></div>
+                            <div class="left-Popular">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <div id="pright">
+                <h2>Mood</h2>
+                <div id="part-continer">
+                    <div class="part">
+                        <h3>Punjabi</h3>
+                    </div>
+                    <div class="part">
+                        <h3>Gujarati</h3>
+                    </div>
+                    <div class="part">
+                        <h3>English</h3>
+                    </div>
+                    <div class="part">
+                        <h3>Bhojpuri</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div id="footer">
+        <div id="fleft">
+            <h3 id="backward"><i class="ri-skip-back-mini-fill"></i></h3>
+            <h3 id="play"><i class="ri-play-fill"></i></h3>
+            <h3 id="forward"><i class="ri-skip-forward-mini-fill"></i></h3>
+        </div>
+        <div id="fright">
+            <div class="timeline-container">
+                <label for="timeline" id="time-start">0:00</label>
+                <input type="range" id="timeline" value="0" step="0.01">
+                <div class="time-left" id="timeLeft">-0:00</div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+</body>
+
+</html>
