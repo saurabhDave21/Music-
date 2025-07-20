@@ -1,9 +1,9 @@
 var arr = [
     { img: "images/animal.jpg", SongName: "Phele mai bhi", Singer: "Saurabh", url: "songs/Pehle Bhi Main.mp3", time: "2:46" },
-    { img: "images/Desi kalkar.jpeg", SongName: "Yo Yo honey", Singer: "Honey Paji", url: "songs/Yo yo.mp3", time: "15:00" },
+    { img: "images/Desi kalkar.jpeg", SongName: "Yo Yo honey", Singer: "Honey Paji", url: "songs/Yoyo.mp3", time: "4:18" },
     { img: "images/jale.jpg", SongName: "Jale 2", Singer: "Bhagy", url: "songs/Jale 2.mp3", time: "3:20" },
     { img: "images/ram.jpg", SongName: "Ram Siya Ram", Singer: "Saurabh", url: "songs/Ram Siya Ram.mp3", time: "1:45" },
-    { img: "images/kk.png", SongName: "KK Playlist", Singer: "KK", url: "songs/KK.mp4", time: "5:10" },
+    { img: "images/kk.png", SongName: "KK Playlist", Singer: "KK", url: "songs/KK.mp3", time: "6:39" },
     { img: "images/animal.jpg", SongName: "Arjan Vailly", Singer: "Saurabh", url: "songs/Arjan Vailly Ne.mp3", time: "1:10" },
 ];
 
