@@ -156,7 +156,7 @@ body {
     color: #4b4b53;
     padding: 3px 3px;
     text-align: center;
-   position:relative;
+    margin-top:-120px;
 }
 
 #popular {
