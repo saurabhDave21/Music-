@@ -27,4 +27,4 @@ The UI focuses on **simplicity and user engagement**, with clearly organized sec
 ---
 
 ## 🚀 Live Demo  
-🔗 **[View Project]([https://saurabhdave21.github.io/Music-/](https://saurabhdave21.github.io/Music-Player/))**
+🔗 **[View Project](https://saurabhdave21.github.io/Music-Player/)**
